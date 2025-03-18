@@ -12,6 +12,7 @@
     <div class="container">
         <h1>Jogos</h1>
         <a href="/jogo/insert" class="btn btn-primary">Novo Jogo</a>
+        <a href="/" class="btn btn-primary">Voltar</a>
         
         <table class="table">
             <thead>

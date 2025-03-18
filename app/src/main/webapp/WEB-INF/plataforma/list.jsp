@@ -12,6 +12,7 @@
     <div class="container">
         <h1>Plataformas</h1>
         <a href="/plataforma/insert" class="btn btn-primary">Nova Plataforma</a>
+        <a href="/" class="btn btn-primary">Voltar</a>
         
         <table class="table">
             <thead>
